@@ -1,5 +1,7 @@
 # 🚗 Car Price Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishsingh0069/Car-Price-Prediction/blob/main/Predicting_Car_Prices.ipynb)
+
 A deep learning project that predicts used car selling prices using PyTorch.
 
 ## 📊 Dataset
