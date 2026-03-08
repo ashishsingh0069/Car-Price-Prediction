@@ -4,6 +4,10 @@
 
 A deep learning project that predicts used car selling prices using PyTorch.
 
+## 🚀 Live Demo
+
+[![HuggingFace Space](https://img.shields.io/badge/Live%20Demo-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/spaces/Ashish-ftr/Car-Price-Prediction)
+
 ## 📊 Dataset
 [CarDekho Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 - 301 rows, 9 features
